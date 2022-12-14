@@ -14,15 +14,8 @@
 		"sha1": "35501d86da8c216af344b2474ee666167f910491"
 	},
 	{
-		"id": "579715",
-		"url": "https://www.curseforge.com/minecraft/mc-mods/squaremap/files/4166309"
-	},
-	{
-		"id": "394468",
-		"url":"https://www.curseforge.com/minecraft/mc-mods/sodium/files/4145281"	
-	},
-	{
-		"url": "https://optifine.net/downloadx?f=OptiFine_1.19.2_HD_U_H9.jar&x=f94d7e35757e8aab908266e7ef6025e8"
+		"id": "Slideshow-fabric-1.19.2-1.0.2",
+		"url": "https://www.minecrafttransitrailway.com/libs/Slideshow-fabric-1.19.2-1.0.2.jar",
+		"sha1": "04245cec2afeb69523b9727fbd658b3b992bda11"
 	}
-
 ]
