@@ -1,25 +1,9 @@
 [{
-		"id": "lQqKCDhg",
-		"source": "modrinth",
-		"comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
-	},
-	{
-		"id": "545686",
-		"source": "curseforge",
-		"comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod"
-	},
-	{
-		"id": "resourcepackupdater-2.0.2",
-		"url": "https://www.minecrafttransitrailway.com/libs/resourcepackupdater-2.0.2.jar",
-		"sha1": "35501d86da8c216af344b2474ee666167f910491"
-	},
+	
 	{
 		"id": "579715",
 		"url": "https://www.curseforge.com/minecraft/mc-mods/squaremap/files/4166309"
 	},
-	{
-		"id": "394468",
-		"url":"https://www.curseforge.com/minecraft/mc-mods/sodium/files/4145281"	
-	}
+	
 
 ]
