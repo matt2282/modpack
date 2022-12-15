@@ -14,9 +14,23 @@
 		"sha1": "35501d86da8c216af344b2474ee666167f910491"
 	},
 	{
-		"id": "579715",
+		"id": "394468",
 		"source": "curseforge"
+		"comment": "Sodium"
 	},
-	
+ 	{
+	 	"id": "447673",
+		"source": "curseforge"
+		"comment": "Sodium Extra"
+ 	},
+ 	{
+		"id": "521783",
+		"source": "curseforge"
+		"comment": "Starlight"
+	}
+		"id": "360438",
+ 		"source": "curseforge"
+ 		"comment": "Lithium"
+ 	}
 
 ]
