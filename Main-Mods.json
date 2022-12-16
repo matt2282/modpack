@@ -1,50 +1,41 @@
 [{
-		
 		"url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/CiPVU1k8/Joban-Client-Mod-1.19.2-1.1.7.jar",
 		"comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
-		
 	},
 	{
 		"id": "545686",
 		"source": "curseforge",
 		"comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod",
-		
 	},
 	{
 		"id": "resourcepackupdater-2.0.2",
 		"url": "https://www.minecrafttransitrailway.com/libs/resourcepackupdater-2.0.2.jar",
 		"sha1": "35501d86da8c216af344b2474ee666167f910491",
-		
 	},
  	{
 		"id": "521783",
 		"source": "curseforge",
 		"comment": "Starlight",
-		
 	},
  	{
 		"id": "360438",
  		"source": "curseforge",
  		"comment": "Lithium",
-		
  	},
  	{
 		"id": "266707",
  		"source": "curseforge",
  		"comment": "MTR",
-		
 	},
  	{
 		"id": "32274",
  		"source": "curseforge",
  		"comment": "JourneyMap",
-		
  	},
  	{
 		"id": "419699",
 		"source": "curseforge",
  		"comment": "Architectury API",
-		
 	}
 
 ]
