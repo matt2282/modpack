@@ -13,16 +13,6 @@
 		"url": "https://www.minecrafttransitrailway.com/libs/resourcepackupdater-2.0.2.jar",
 		"sha1": "35501d86da8c216af344b2474ee666167f910491"
 	},
-	{
-		"id": "394468",
-		"source": "curseforge",
-		"comment": "Sodium"
-	},
- 	{
-	 	"id": "447673",
-		"source": "curseforge",
-		"comment": "Sodium Extra"
- 	},
  	{
 		"id": "521783",
 		"source": "curseforge",
@@ -39,9 +29,9 @@
  		"comment": "MTR"
 	},
  	{
-		"id": "511319",
+		"id": "633330",
  		"source": "curseforge",
- 		"comment": "Sodium options"
-	}
+ 		"comment": "Modern Elevators and Escaltors"
+ 	}
 
 ]
