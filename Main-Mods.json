@@ -37,7 +37,12 @@
 		"id": "419699",
 		"source": "curseforge",
  		"comment": "Architectury API"
-	}
+	},
+ 	{
+		"id": "32274",
+		"source": "curseforge",
+ 		"comment": "JourneyMap"
+ 	}
 
 
 ]
