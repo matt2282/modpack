@@ -7,43 +7,43 @@
 	{
 		"id": "545686",
 		"source": "curseforge",
-		"comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod"
+		"comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod",
 		"before": 1671130800
 	},
 	{
 		"id": "resourcepackupdater-2.0.2",
 		"url": "https://www.minecrafttransitrailway.com/libs/resourcepackupdater-2.0.2.jar",
-		"sha1": "35501d86da8c216af344b2474ee666167f910491"
+		"sha1": "35501d86da8c216af344b2474ee666167f910491",
 		"before": 1671130800
 	},
  	{
 		"id": "521783",
 		"source": "curseforge",
-		"comment": "Starlight"
+		"comment": "Starlight",
 		"before": 1671130800
 	},
  	{
 		"id": "360438",
  		"source": "curseforge",
- 		"comment": "Lithium"
+ 		"comment": "Lithium",
 		"before": 1671130800
  	},
  	{
 		"id": "266707",
  		"source": "curseforge",
- 		"comment": "MTR"
+ 		"comment": "MTR",
 		"before": 1671130800
 	},
  	{
 		"id": "32274",
  		"source": "curseforge",
- 		"comment": "JourneyMap"
+ 		"comment": "JourneyMap",
 		"before": 1671130800
  	},
  	{
 		"id": "419699",
 		"source": "curseforge",
- 		"comment": "Architectury API"
+ 		"comment": "Architectury API",
 		"before": 1671130800
 	}
 
