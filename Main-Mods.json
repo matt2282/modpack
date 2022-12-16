@@ -1,8 +1,8 @@
+// [{
+//     "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/CiPVU1k8/Joban-Client-Mod-1.19.2-1.1.7.jar",
+//     "comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
+// },
 [{
-    "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/CiPVU1k8/Joban-Client-Mod-1.19.2-1.1.7.jar",
-    "comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
-},
-{
     "id": "545686",
     "source": "curseforge",
     "comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod"
