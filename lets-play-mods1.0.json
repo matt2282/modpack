@@ -15,28 +15,33 @@
 	},
 	{
 		"id": "394468",
-		"source": "curseforge"
+		"source": "curseforge",
 		"comment": "Sodium"
 	},
  	{
 	 	"id": "447673",
-		"source": "curseforge"
+		"source": "curseforge",
 		"comment": "Sodium Extra"
  	},
  	{
 		"id": "521783",
-		"source": "curseforge"
+		"source": "curseforge",
 		"comment": "Starlight"
 	},
  	{
 		"id": "360438",
- 		"source": "curseforge"
+ 		"source": "curseforge",
  		"comment": "Lithium"
  	},
  	{
 		"id": "266707",
- 		"source": "curseforge"
+ 		"source": "curseforge",
  		"comment": "MTR"
- 	}
+	},
+ 	{
+		"id": "511319",
+ 		"source": "curseforge",
+ 		"comment": "Sodium options"
+	}
 
 ]
