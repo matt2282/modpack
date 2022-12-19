@@ -43,6 +43,10 @@
      "comment": "Architectury API",
   "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/4147353",
     "sha1": "cccddd4f8221a6fc373f786de42e3fc57992b166"
-}
-
+},
+  {
+"id":	"Slideshow-fabric-1.19.2-1.0.2",
+"url":	"https://www.minecrafttransitrailway.com/libs/Slideshow-fabric-1.19.2-1.0.2.jar",
+"sha1":	"04245cec2afeb69523b9727fbd658b3b992bda11"
+  }
 ]
