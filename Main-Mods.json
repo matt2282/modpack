@@ -1,10 +1,13 @@
  [{
      "id": "lQqKCDhg",
-     "source": "modrinth",
+     "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/VGVeFtfF/Joban-Client-Mod-1.19.2-1.1.8.jar",
+     "sha1":"b19e9746afc1272c2c7a514e7e52a687840ef959",
      "comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
  },
 {
     "id": "545686",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/london-underground/download/4213047",
+    "sha1": "b1b69a09f2b04ab2fe4289d5782f20264e4c2e1e",
     "source": "curseforge",
     "comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod"
 },
@@ -16,22 +19,30 @@
  {
     "id": "266707",
      "source": "curseforge",
-     "comment": "MTR"
+     "comment": "MTR",
+     "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway/files/4181522",
+    "sha1": "7079e2775bb708361ff8a5feaf027500f59b58d0" 
 },
  {
     "id": "32274",
      "source": "curseforge",
-     "comment": "JourneyMap"
+     "comment": "JourneyMap",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap/files/4160833",
+    "sha1": "036ae277b076d6a8d54984c197fc4def3d7d28db" 
  },
    {
     "id": "633330",
      "source": "curseforge",
-     "comment": "Elevators and Escalators"
+     "comment": "Elevators and Escalators",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/modern-elevators-and-escalators/files/4057684",
+    "sha1": "f65651a084465bbf9c9b2a6aaeb7f1ec50d28f19" 
  },
  {
     "id": "419699",
     "source": "curseforge",
-     "comment": "Architectury API"
+     "comment": "Architectury API",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/4147353",
+    "sha1": "cccddd4f8221a6fc373f786de42e3fc57992b166"
 }
 
 ]
