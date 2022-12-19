@@ -2,28 +2,31 @@
 	{
 		"id": "394468",
 		"source": "curseforge",
-		"comment": "Sodium"
+		"comment": "Sodium",
+		"url": "https://www.curseforge.com/minecraft/mc-mods/sodium/files/3957319",
+		"sha1" "227648dc4f6a8604bafc282612a6de47eff70cd8"
 	},
  	{
 	 	"id": "447673",
 		"source": "curseforge",
-		"comment": "Sodium Extra"
+		"comment": "Sodium Extra",
+		"url": "https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files/4126062",
+		"sha1": "11d547e8dc6233defd00e3bdd4dba4922909dd69"
  	},
   {
 		"id": "511319",
  		"source": "curseforge",
- 		"comment": "Sodium options"
+ 		"comment": "Sodium options",
+	  	"url": "https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options/files/4126247",
+	  	"sha1": "3b48ed460ce30c38e6058fdd0c3d6a221913e4e4"
 	},
  	{
 		"id": "521783",
 		"source": "curseforge",
-		"comment": "Starlight"
-	},
- 	{
-		"id": "360438",
- 		"source": "curseforge",
- 		"comment": "Lithium"
- 	}
+		"comment": "Starlight",
+		"url": "https://www.curseforge.com/minecraft/mc-mods/starlight/files/3835973"
+	}
+
  	
 
 ]
