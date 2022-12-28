@@ -65,6 +65,12 @@
 "source": "curseforge",
 "comment": "Modern Elevators and Escalators|This mod adds new elevators and escalators to Minecraft"
 },
+ {
+"id": "8pXSjgW8",
+"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/9DA6jQAm/MTR-NTE-fabric-1.19.2-0.2.1.jar",
+"sha1": "7dd6013c0493f3a385b8c79a229dd7ff6f2383d8",
+"comment": "MTR Nemo's Transit Expansion"
+},
 {
 "id": "567451",
 "url": "https://www.curseforge.com/minecraft/mc-mods/mtape/download/3078584",
