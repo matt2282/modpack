@@ -38,19 +38,27 @@
    "source": "modrinth",
    "comment": "Nemo's Transit Expansion"
   },
-  {
-   "id": "55438",
-   "source": "curseforge",
-   "comment": "Mr. Crayfish Furniture"
+   {
+  "id": "453925",
+   "url": "",
+   "sha1": "",
+   "comment": "Macaw's Fences and Walls"
+  },
+{
+  "id": "502372",
+   "url": "",
+   "sha1": "",
+   "comment": "Macaw's Lights and Lamps"
+  },
+{
+  "id": "610492",
+   "url": "",
+   "sha1": "",
+   "comment": "Another Furniture Mod"
   },
 {
    "id":	"567451",
 "source":	"curseforge",
 "commet":	"measuring tool"
-  },
-  {
-"id":	"Slideshow-fabric-1.19.2-1.0.2",
-"url":	"https://www.minecrafttransitrailway.com/libs/Slideshow-fabric-1.19.2-1.0.2.jar",
-"sha1":	"04245cec2afeb69523b9727fbd658b3b992bda11"
   }
 ]
