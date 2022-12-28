@@ -56,20 +56,17 @@
   },
   {
   "id": "453925",
-   "url": "",
-   "sha1": "",
+  "source": "curseforge",
    "comment": "Macaw's Fences and Walls"
   },
 {
   "id": "502372",
-   "url": "",
-   "sha1": "",
+  "source": "curseforge",
    "comment": "Macaw's Lights and Lamps"
   },
 {
   "id": "610492",
-   "url": "",
-   "sha1": "",
+ "source": "curseforge",
    "comment": "Another Furniture Mod"
   }
 ]
