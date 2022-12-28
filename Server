@@ -1,1 +1,87 @@
+ [{
+     "id": "lQqKCDhg",
+     "source": "modrinth",
+     "comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
+ },
+{
+    "id": "545686",
+    "source": "curseforge",
+    "comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod"
+},
+{
+    "id": "resourcepackupdater-2.0.2",
+    "url": "https://www.minecrafttransitrailway.com/libs/resourcepackupdater-2.0.2.jar",
+    "sha1": "35501d86da8c216af344b2474ee666167f910491"
+},
+ {
+    "id": "266707",
+     "source": "curseforge",
+     "comment": "MTR"
+},
+   {
+    "id": "633330",
+     "source": "curseforge",
+     "comment": "Elevators and Escalators"
+ },
+ {
+    "id": "419699",
+    "source": "curseforge",
+     "comment": "Architectury API"
+},
+  {
+  "id": "453925",
+   "source": "curseforge",
+   "comment": "Macaw's Fences and Walls"
+  },
+{
+  "id": "502372",
+   "source": "curseforge",
+   "comment": "Macaw's Lights and Lamps"
+  },
+{
+  "id": "610492",
+   "source": "curseforge",
+   "comment": "Another Furniture Mod"
+  },
+  {
+    "id": "225608",
+    "soure": "curseforge",
+    "comment": "world edit"
+    },
+    {
+   "id": "8pXSjgW8",
+   "source": "modrinth",
+   "comment": "Nemo's Transit Expansion"
+  },
+   {
+   "id": "394363",
+   "source": "curseforge",
+   "comment": "PlayerRoles"
+  },
+  {
+   "id": "533097",
+   "source": "curseforge",
+   "comment": "C2ME"
+  },
+   {
+   "id": "428912",
+   "source": "curseforge",
+   "comment": "Krypton"
+  },
+  {
+   "id": "360438",
+   "source": "curseforge",
+   "comment": "Lithium"
+  },
+  {
+   "id": "521783",
+   "source": "curseforge",
+   "comment": "Starlight"
+  },
+  { 
+  "id": "349239",
+   "source": "curseforge",
+   "comment": "Carpet"
+  }
+]
 
