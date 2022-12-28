@@ -1,72 +1,88 @@
- [{
-     "id": "lQqKCDhg",
-     "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/VGVeFtfF/Joban-Client-Mod-1.19.2-1.1.8.jar",
-     "sha1":"b19e9746afc1272c2c7a514e7e52a687840ef959",
-     "comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
- },
-{
-    "id": "545686",
-    "url": "https://www.curseforge.com/minecraft/mc-mods/london-underground/download/4213047",
-    "sha1": "b1b69a09f2b04ab2fe4289d5782f20264e4c2e1e",
-    "source": "curseforge",
-    "comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod"
+[{
+"id": "lQqKCDhg",
+"url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/VGVeFtfF/Joban-Client-Mod-1.19.2-1.1.8.jar",
+"sha1":"b19e9746afc1272c2c7a514e7e52a687840ef959",
+"comment": "Joban Client Mod|Joban Client Mod is a mod that adds utility and Decoration Blocks"
 },
 {
-    "id": "resourcepackupdater-2.0.2",
-    "url": "https://www.minecrafttransitrailway.com/libs/resourcepackupdater-2.0.2.jar",
-    "sha1": "35501d86da8c216af344b2474ee666167f910491"
+"id": "545686",
+"url": "https://www.curseforge.com/minecraft/mc-mods/london-underground/download/4213047",
+"sha1": "b1b69a09f2b04ab2fe4289d5782f20264e4c2e1e",
+"source": "curseforge",
+"comment": "The London Underground|London Underground Addon for the Minecraft Transit Mod"
 },
- {
-    "id": "266707",
-     "source": "curseforge",
-     "comment": "MTR",
-     "url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway/files/4181522",
-    "sha1": "7079e2775bb708361ff8a5feaf027500f59b58d0" 
-},
- {
-    "id": "32274",
-     "source": "curseforge",
-     "comment": "JourneyMap",
-  "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap/files/4160833",
-    "sha1": "036ae277b076d6a8d54984c197fc4def3d7d28db" 
- },
-   {
-    "id": "633330",
-     "source": "curseforge",
-     "comment": "Elevators and Escalators",
-    "url": "https://www.curseforge.com/minecraft/mc-mods/modern-elevators-and-escalators/files/4057684",
-    "sha1": "f65651a084465bbf9c9b2a6aaeb7f1ec50d28f19" 
- },
- {
-    "id": "419699",
-    "source": "curseforge",
-     "comment": "Architectury API",
-  "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/4147353",
-    "sha1": "cccddd4f8221a6fc373f786de42e3fc57992b166"
-},
-  {
-   "id":	"567451",
-"source":	"curseforge",
-"commet":	"measuring tool"
-  },
-  {
-   "id":	"349239",
-   "source":	"curseforge",
-   "comment":	"carpet"
-  },
-  {
-  "id": "453925",
-  "source": "curseforge",
-   "comment": "Macaw's Fences and Walls"
-  },
 {
-  "id": "502372",
-  "source": "curseforge",
-   "comment": "Macaw's Lights and Lamps"
-  },
+"id": "resourcepackupdater-2.0.2",
+"url": "https://www.minecrafttransitrailway.com/libs/resourcepackupdater-2.0.2.jar",
+"sha1": "35501d86da8c216af344b2474ee666167f910491"
+},
 {
-  "id": "610492",
- "source": "curseforge",
-   "comment": "Another Furniture Mod"
-  }
-]
+"id": "266707",
+"source": "curseforge",
+"comment": "MTR",
+"url": "https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway/files/4181522",
+"sha1": "3951ac0419e6b6d8235370ac0425ac133955a341"
+},
+{
+"id": "another_furniture",
+"url": "https://www.curseforge.com/minecraft/mc-mods/another-furniture/download/3082142",
+"sha1": "0553fdc5c990917f88637a7acb934843b6fd2cdf",
+"source": "curseforge",
+"comment": "Another Furniture|This mod adds more furniture to Minecraft"
+},
+{
+"id": "architectury",
+"url": "https://www.curseforge.com/minecraft/mc-mods/architectury/download/2964145",
+"sha1": "cccddd4f8221a6fc373f786de42e3fc57992b166",
+"source": "curseforge",
+"comment": "Architectury|This mod adds new blocks and structures for building in Minecraft"
+},
+{
+"id": "journeymap",
+"url": "https://www.curseforge.com/minecraft/mc-mods/journeymap/download/3049866",
+"sha1": "976cdc16ac1d8b4148b566d026081e18ba7b9858",
+"source": "curseforge",
+"comment": "Journeymap|This mod adds a live map to Minecraft"
+},
+{
+"id": "mcw-fences",
+"url": "https://www.curseforge.com/minecraft/mc-mods/mcw-fences/download/3073192",
+"sha1": "6f69294ed2d37c5e4174ab2b612035fb54125cd9",
+"source": "curseforge",
+"comment": "MCW Fences|This mod adds new fence variants to Minecraft"
+},
+{
+"id": "mcw-lights",
+"url": "https://www.curseforge.com/minecraft/mc-mods/mcw-lights/download/3073134",
+"sha1": "8aeee40b14d99919e6580b50294cc37ea4b43474",
+"source": "curseforge",
+"comment": "MCW Lights|This mod adds new light variants to Minecraft"
+},
+{
+"id": "Modern-Elevators-Escalators",
+"url": "https://www.curseforge.com/minecraft/mc-mods/modern-elevators-escalators/download/3079186",
+"sha1": "f65651a084465bbf9c9b2a6aaeb7f1ec50d28f19",
+"source": "curseforge",
+"comment": "Modern Elevators and Escalators|This mod adds new elevators and escalators to Minecraft"
+},
+{
+"id": "mtape",
+"url": "https://www.curseforge.com/minecraft/mc-mods/mtape/download/3078584",
+"sha1": "83e302f2eb42de21d392ca2adfb8cea247ccfe39",
+"source": "curseforge",
+"comment": "Tape Measure"
+},
+{
+"id": "MTR-LU-Addon",
+"url": "https://www.curseforge.com/minecraft/mc-mods/mtr-lu-addon/download/3079395",
+"sha1": "7dd6013c0493f3a385b8c79a229dd7ff6f2383d8",
+"source": "curseforge",
+"comment": "MTR London Underground Addon|This mod adds new blocks and structures for use in the Minecraft Transit Mod to represent the London Underground"
+},
+{
+"id": "MTR-NTE",
+"url": "https://www.curseforge.com/minecraft/mc-mods/mtr-nte/download/3079512",
+"sha1": "7dd6013c0493f3a385b8c79a229dd7ff6f2383d8",
+"source": "curseforge",
+"comment": "MTR Nemo's Transit Expansion"
+}]
